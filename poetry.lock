@@ -181,7 +181,7 @@ testing = ["pytest (>=6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytest-
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7,<4.0"
-content-hash = "653be8afdedb198eeca0be61d380cecbc893ef00dfeca9bf873fbcb96aff1120"
+content-hash = "8f8e69115394cee9fb48eb8cc6e60238ee3b657b0280f63c6731c6c1ac7a49d7"
 
 [metadata.files]
 beanie = [
