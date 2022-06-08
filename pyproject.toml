@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "beryl-events-utils"
-version = "1.0.1"
+version = "1.0.2"
 description = "A set of async utils for Beryl's Events system"
 authors = ["No767 <73260931+No767@users.noreply.github.com>"]
 license = "MIT"
@@ -24,7 +24,7 @@ packages = [{ include = "beryl_events_utils", from = "src" }]
 
 [tool.poetry.dependencies]
 python = "^3.7,<4.0"
-beanie = "^1.11.2"
+beanie = "^1.11.1"
 python-dotenv = "^0.20.0"
 uvloop = "^0.16.0"
 
