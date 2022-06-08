@@ -12,6 +12,20 @@ A set of async utils for Beryl's Events system
 
 Beryl, which is a discord bot offers a events system, where users can set an event and then later check how much more days is there left. The events system is powered off of MongoDB and thus requires an MongoDB server in order to use. These are the base corountines used by Beryl.
 
+# Installation
+
+## Pip
+
+```sh
+pip install beryl-events-utils
+```
+
+## Poetry
+
+```sh
+poetry add beryl-events-utils
+```
+
 # License
 
 MIT
