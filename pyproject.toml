@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "beryl-events-utils"
-version = "1.0.0"
+version = "1.0.1"
 description = "A set of async utils for Beryl's Events system"
 authors = ["No767 <73260931+No767@users.noreply.github.com>"]
 license = "MIT"
