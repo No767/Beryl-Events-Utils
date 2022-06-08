@@ -2,7 +2,7 @@
 
 # Beryl-Events-Utils
 
-![PyPI](https://img.shields.io/pypi/v/beryl-events-utils?label=PyPi&logo=pypi&logoColor=white) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/beryl-events-utils?label=Python&logo=python&logoColor=white)![PyPI - Downloads](https://img.shields.io/pypi/dd/beryl-events-utils?label=PyPi%20Downloads&logo=pypi&logoColor=white)
+![PyPI](https://img.shields.io/pypi/v/beryl-events-utils?label=PyPi&logo=pypi&logoColor=white) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/beryl-events-utils?label=Python&logo=python&logoColor=white) ![PyPI - Downloads](https://img.shields.io/pypi/dd/beryl-events-utils?label=PyPi%20Downloads&logo=pypi&logoColor=white)
 
 A set of async utils for Beryl's Events system
 
