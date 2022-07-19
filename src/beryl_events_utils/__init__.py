@@ -1,3 +1,3 @@
-from .events_utils import BerylEventsUtils
+from .main import BerylEventsUtils
 
 __all__ = ["BerylEventsUtils"]
